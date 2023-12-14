@@ -7,11 +7,11 @@ This repository contains resources and materials for a comprehensive web develop
 - HTML
 - CSS
 - JavaScript
-  <!--not yet done used-->
+  <!--
 - Frontend Frameworks (e.g., React, Vue.js, Angular)
 - Backend Development (e.g., Node.js, Express, Django, Flask)
 - Databases (e.g., SQL, MongoDB)
-
+   --->
 ## Course Contents
 
 - **Module 1: Introduction to HTML**
